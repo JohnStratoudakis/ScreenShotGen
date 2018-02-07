@@ -24,4 +24,4 @@ Here are the screenshots generated for the Generate-Screenshots-Top.vi
 # To Do
 - [ ] Add Support for LabVIEW Project files (.lvproj)
 - [ ] Make Recursion an option
-- [ ] Make interface interactive with button to run.
+- [ ] Make more interface with button to run.
