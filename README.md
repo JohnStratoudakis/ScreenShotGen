@@ -25,3 +25,4 @@ Here are the screenshots generated for the Generate-Screenshots-Top.vi
 - [ ] Add Support for LabVIEW Project files (.lvproj)
 - [ ] Make Recursion an option
 - [ ] Make more interface with button to run.
+- [ ] Add option to delete screenshots from deleted vi's (delete all -Front.png and -Back.png files)
